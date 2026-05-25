@@ -9,7 +9,7 @@ Este é meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript. O site a
 
 ## 🚀 Demonstração
 
-Acesse o site em: [cristhiancampelo.github.io](https://kriskinze.github.io/portifolio-oficial_Cristhian-Campelo/)
+Acesse o site em: [cristhiancampelo.github.io](https://cristhian-campelo.github.io/portifolio-oficial_Cristhian-Campelo/)
 
 ## ✨ Funcionalidades
 
